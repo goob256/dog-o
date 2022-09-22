@@ -1,0 +1,310 @@
+15:Coquette
+16:Tom
+17:Berlingot
+27:Frank
+39:Mère de Tom
+41:Vance
+193:Sensei
+18:Il ne se passe jamais rien d'intéressant par ici, hein Berlingot ?
+19:Va chercher !
+20:HEEEEEIN ???!!!
+21:BERLINGOT !!!
+22:C'est pas possible !^Berlingot, je reviens ! Je vais chercher Tom !
+23:Oh non. Mais où est passé Tom ?
+32:Te voilà ! J'ai besoin de ton aide ! Suis-moi !
+33:Hé là ! Hé là ! Je suis occupé, moi !
+34:Berly a des ennuis ! Et puis de toute façon, tu n'attraperas rien dans cette mare !
+35:OK, OK... Mais pour info, Vance a attrapé une truite de près d'un mètre ici !
+36:Suis-moi.
+44:Fais comme j'ai dit. Descends-moi doucement...
+45:Oui, oui, j'ai compris !
+46:Je compte jusqu'à trois.^Un...^Deux...
+47:Oh ho...
+75:Oh mon Dieu. Tom, tout va bien ?!
+76:*Toux* COQUETTE ! JE VAIS TE SAUVER !
+77:C'est moi qui viens de te sortir de l'eau, grosse nouille...
+78:Hé, tu as vu ça ?
+79:Je ne savais pas qu'il y avait un truc pareil là-dessous. Où est Berlingot ?
+80:Il n'a pas pu aller bien loin. Cherchons dans les parages.
+81:Berly ! Te voilà !
+82:Attends ! Berlingot, reviens !
+194:Tiens donc, mais qui voilà ?
+195:Icks ! Vous nous avez fichu la trouille, monsieur !
+196:Et tu n'as encore rien vu !^Sais-tu ce qui rôde dans les ténèbres qui règnent ici ?
+197:Des champis tout zarbis ? Des vieux qui tombent du plafond ?
+198:Bien pire ! Cet endroit n'a rien à voir avec Ru Lambin.^Tout par ici n'aspire qu'à vous croquer, vous recracher et vous re-croquer !
+199:Nous ne partirons pas avant d'avoir retrouvé Berlingot !
+200:Alors vous allez devoir apprendre à vous battre.
+201:Ha ! Et c'est vous qui allez nous donner des cours ?
+202:Au boulot !
+241:Humpf ! Sympa, ce pont !
+242:Berly m'entendra quand je l'aurai retrouvé. Pas de biscuit pendant une semaine !
+246:Il commence à faire vraiment chaud par ici...
+255:Tom... Est-ce que tu sais nager ?
+256:Euh... Non.
+257:Je vais donc devoir y aller seule...
+259:Oh, on est venu chercher son dîner, c'est ça ?
+260:Grrr... Cela fait 11 ans que je mijote là-dedans, alors abandonnez cette idée !
+261:Du calme. Nous n'avons aucune intention de vous manger !
+262:Ben tiens... Et moi, je n'ai aucune intention de vous envoyer dans le Coffre de Davy Jones !
+263:Mais enfin ! Nous sommes juste à la recherche de mon chien !
+264:Celui qui m'a mordu le huitième tentacule ?! Alors là, ça va se payer !^En garde !
+269:Ne me mangez pas ! Je dois être tout caoutchouteux, vous n'aimeriez pas ça !
+270:Nous n'allons pas vous manger !
+271:Merci ! Merci de tout mon cœur !^Laissez-moi vous aider à traverser pour que vous puissiez retrouver votre chien !
+272:Berlingot !!! Reviens, mon toutou ! On rentre à la maison !
+273:GAAAAH ! *Snif*
+274:On va le retrouver, ne t'en fais pas...
+24:Berlingot ! Je reviens tout de suite !
+26:On dirait mon vieux chapeau...
+28:N'as-tu rien de mieux à faire, jeune fille ?
+29:Berlingot ! Comment ai-je pu oublier ?
+30:Attendre. Je ne fais que ça.^À force, je suis devenu doué pour ça... Je pourrai passer des journées à attendre.
+31:Toi, tu n'es pas mon Berlingot...
+37:Coucou, ma puce ! Si tu vois Tom, préviens-le que nous dînerons tard ce soir.
+38:Te voilà ! Nous dînerons tard ce soir !^Mais n'en profite pas pour partir en vadrouille !
+42:Où ai-je mis ma canne à pêche ?
+43:Tom, tu n'aurais pas vu ma canne à pêche ?
+48:C'est une niche.^On pourrait croire que vous pouvez y entrer...^Mais en fait, non.
+14:Pomme
+149:Croquez dedans pour récupérer 50 PV.
+25:Carotte
+150:Rend aimable et permet de récupérer 25 PC.
+40:Caramel
+151:Si vous aimez les bonbons, celui-ci vous remontera le moral.
+363:Potion bleue
+364:Un liquide bleu qui sent bizarre. Augmente la CHN de +1.
+243:Shuriken
+244:Une étoile aux pointes pointues. Utile en combat.
+245:Utilisable en combat !
+232:Banane
+233:Parfaitement mûre. Permet de récupérer 100 PV.
+203:Ceinture Blanche
+204:Ceinture Jaune
+265:Ceinture Dorée
+205:Ceinture Orange
+206:Ceinture Verte
+207:Ceinture Bleue
+208:Ceinture Violette
+209:Ceinture Marron
+210:Ceinture Rouge
+211:Ceinture Noire
+212:Une ceinture blanche de karaté.
+212:Une ceinture jaune de karaté.
+266:Une ceinture dorée de karaté.
+212:Une ceinture orange de karaté.
+212:Une ceinture verte de karaté.
+212:Une ceinture bleue de karaté.
+212:Une ceinture violette de karaté.
+212:Une ceinture marron de karaté.
+212:Une ceinture rouge de karaté.
+212:Une ceinture noire de karaté.
+144:PV
+145:PC
+146:ATQ
+147:DÉF
+362:CHN
+83:Langue
+93:Anglais
+94:Français
+84:Vidéo
+96:Résolution d'écran
+97:Taille de fenêtre
+98:Plein écran
+99:Fenêtré
+100:Choix du mode
+85:Audio
+103:Volumes
+101:Bruitages :
+102:Musique :
+86:Clavier
+87:Manette
+107:Commandes clavier
+108:Commandes manette
+139:Action
+114:Changer de personnage
+115:Plein écran
+116:Gauche
+117:Droite
+118:Haut
+119:Bas
+131:Retour
+140:Menu
+137:Personnage suivant
+487:Pause
+489:Divers :
+166:Combos :
+88:Divers
+128:Réglages divers
+167:Contrôleur à l'écran
+370:Mode combos faciles
+491:Affichage simplifié de l'ordre des tours
+127:Vibrations activées
+89:Succès
+90:Sauvegardes dans le Cloud
+92:Licences
+112:Coup de poing
+110:Coup de pied
+376:Uppercut
+381:Frappe circulaire
+113:Coup de poing puissant
+111:Coup de pied puissant
+130:Entraînement
+141:Objets
+142:Ceintures
+148:Stats
+156:Sauvegarder
+133:EXCELLENT !!!
+134:GÉNIAL !!!
+135:SUPER !!!
+136:FANTASTIQUE !!!
+353:EXTRA !
+154:PC !
+155:VIE !
+0:Inconnu...
+53:Le Puits
+54:Ru Lambin
+55:Chez Vance
+56:Chez Coquette
+57:Chez Coquette 2
+58:Chez Tom
+74:Caverne 1-1
+168:Caverne 1-2
+231:Caverne 1-3
+234:Caverne 1-4
+235:Caverne 1-5
+236:Caverne 1-6
+237:Caverne 1-7
+238:Caverne 1-8
+239:Caverne 1-9
+240:Caverne 1-Chute
+254:Caverne 1- ???
+49:Jouer
+50:Options
+51:Quitter
+52:© 2020 Nooskewl   (0.15)
+59:Choisissez un emplacement
+62:Charger
+64:Effacer
+65:Choisissez une action
+67:Choisissez une sauvegarde auto
+70:Choisissez la difficulté
+71:Avec les roulettes
+72:On s'accroche !
+73:Décollage !
+60:Oui
+61:Non
+69:OK
+164:Annuler
+4:Inventaire plein !
+10:Retourner à l'écran titre ?
+12:Vous avez péri au combat !
+66:Effacer cette partie ?
+68:Aucune sauvegarde auto !
+95:Ce menu va se fermer.
+104:Appliquer les modifications ?
+105:Appuyez sur une touche...
+106:Appuyez sur un bouton...
+109:Conflit repéré ! Annuler ?
+152:Appuyer et maintenir pour afficher la description des objets.
+157:Écraser cette sauvegarde ?
+158:Partie sauvegardée !
+159:Erreur de sauvegarde !
+174:Inventaire vide...
+178:Inventaire plein !
+192:Appuyez sur OK pour continuer.
+253:Réglages indisponibles actuellement !
+275:C'est sans effet...
+322:Échec de l'affichage des licences !
+369:Ce jeu utilise des sauvegardes automatiques. Choisissez « Charger » pour restaurer votre dernière sauvegarde manuelle. Choisissez « Afficher les sauvegardes auto » pour voir les sauvegardes automatiques.
+374:Attaque furtive !
+375:Pas de combo...
+392:L'ennemi vous a attaqué par derrière ! La gauche et la droite sont inversées pour les combos !
+153:Aucun objet
+161:Aucune ceinture
+185:LOUPÉ !
+284:Or
+368:la flèche retour
+191:pour quitter
+162:Appuyez sur
+163:pour quitter
+2:Reçu : %d Or !
+3:Reçu : %d Expérience !
+5:Reçu : %d %s !
+6:Reçu : %s !
+177:Reçu : %d Or !
+276:NIVEAU SUP ! Gain de %d ATQ !
+279:NIVEAU SUP ! Gain de %d ATQ et %d PC Max !
+280:NIVEAU SUP ! Gain de %d PC Max !
+490:Vous ne pouvez pas porter plus de %d Or !
+258:Octo
+267:Tentacule
+13:Flaque
+247:Colère
+250:Pécule-man
+251:Gastérocorne
+182:Arroser
+226:Boule de feu
+248:Griffe
+249:Rebond
+252:Arc-en-ciel
+268:Claquement
+371:Mode de bataille
+372:Combos de combat (Mode difficile)
+373:Choisir dans une liste
+186:DÉFENDEZ-VOUS !
+187:ÇA VA FAIRE MAL !
+188:PAS DE PITIÉ !
+189:NE VOUS LAISSEZ PAS FAIRE !
+190:FRAPPEZ UN BON COUP !
+393:MULTIPLICATEUR+
+394:MULTIPLICATEUR++
+395:MULTIPLICATEUR+++
+169:Combo
+170:Objet
+181:Info
+213:Au combat, la rapidité est cruciale. L'ennemi ne restera pas planté sans rien faire, alors ne le faites pas non plus.^
+214:^Vous pouvez choisir qui attaquera ensuite avec « %s ».
+215:Très bien. Mais comment allez-vous contrer cela ?
+217:Je peux vous mettre KO en un coup ! Un fruit vous permettra de récupérer des PV.
+218:^Vous pouvez choisir qui attaquera ensuite en touchant un membre de votre groupe à droite.
+219:Coquette, utilise « %s » pour donner un coup de poing. Tom, tu peux utiliser « %s » pour donner un coup de pied.
+220:Réessayer le combat ?
+221:Vous avez beaucoup à apprendre. Souhaitez-vous réessayer ?
+222:C'est tout ce que je peux vous enseigner... pour l'instant. Courage !
+223:C'était qui, lui ?
+224:*Hausse les épaules*
+225:Alors vous devrez tout apprendre sur le tas.
+227:Changez de personnage avec « %s » ! Vous avez tous les deux besoin d'apprendre !^
+228:Changez de personnage en touchant un membre de votre groupe à droite ! Vous avez tous les deux besoin d'apprendre !^
+229:Utilisez des sucreries pour ranimer un personnage inconscient. Essayez tout de suite.
+230:Pas assez de PC ! %d requis !
+396:Choisissez ceci !
+397:pour donner un coup de poing !
+398:pour donner un coup de pied !
+399:Choisissez une cible !
+400:Choisissez une cible avec
+4019
+402:« 
+403: »
+404:Pour essayer un coup contre un ennemi, choisissez Combo.^Coquette, utilise « %s » pour donner un coup de poing. Tom, utilise « %s » pour donner un coup de pied.^
+405:Pour essayer un coup contre un ennemi, choisissez Combo, puis sélectionnez un coup dans la liste.^
+406:Si vous êtes rapides, vous pouvez augmenter votre Multiplicateur.
+408:Choisissez un coup !
+409:Bien joué !
+441:Très bien ! Vous en savez suffisamment pour le moment.^Prenez ces Ceintures Blanches. Chaque ceinture permet d'apprendre de nouvelles compétences.^Vous devez équiper une ceinture pour utiliser les compétences associées.^
+442:Choisissez Combo, puis sélectionnez un coup dans la liste.
+63:Afficher les sauvegardes auto
+515:- VIDE -
+516:*** CORROMPUE ***
+165:Principal :
+517:Vous avez atteint la fin de la démo ! Merci d'avoir joué !
+450:Confirmer
+488:Menu
+216:Très bien ! Vous en savez suffisamment pour le moment.^Prenez ces Ceintures Blanches. Chaque ceinture vous donnera de nouvelles compétences.^
+518:Ouvrez le menu avec
+519:puis équipez les ceintures et consultez vos compétences dans la section Entraînement. ^Les compétences avancées consomment des PC à l'utilisation. Récupérez des PC en mangeant des légumes.^Les PC se régénèrent aussi au fil du temps.
+520:Entraînement libre
+521:pour équiper vos nouvelles Ceintures.^Les compétences avancées consomment des PC à l'utilisation. Récupérez des PC en mangeant des légumes.^Les PC se régénèrent aussi au fil du temps.
+527:Quitter le mode plein écran pour voir les licences ?
+531:Erreur rencontrée !

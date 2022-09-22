@@ -1,0 +1,9 @@
+#!/bin/sh
+cd ~/code/tgui4
+git pull --rebase
+cd ~/code/shim2
+git pull --rebase
+cd ~/code/wedge2
+git pull --rebase
+cd ~/code/dog-o
+git pull --rebase

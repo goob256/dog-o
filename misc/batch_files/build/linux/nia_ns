@@ -1,0 +1,5 @@
+#!/bin/sh
+mkdir ~/code/d
+cd ~/code/dog-o/data
+compress_dir
+cp ~/code/dog-o/data.cpa ~/code/dog-o/build/dog-o ~/code/dog-o/docs/3rd_party.html ~/code/d

@@ -1,0 +1,26 @@
+struct VS_OUTPUT
+{
+	float4 Position : POSITION0;
+	float2 TexCoord : TEXCOORD0;
+	float4 Colour	: COLOR0;
+	float4 gl_FragCoord : TEXCOORD1;
+};
+
+texture tex;
+sampler2D s_tex = sampler_state {
+	texture = <tex>;
+};
+texture plasma;
+sampler2D s_plasma = sampler_state {
+	texture = <plasma>;
+};
+
+float p;
+
+float4 main(VS_OUTPUT Input) : COLOR0
+{
+	float4 pix = tex2D(s_tex, Input.TexCoord);
+	float a = tex2D(s_plasma, Input.TexCoord).a;
+	a = min(1.0f, a*p+p);
+	return pix * a;
+}

@@ -1,0 +1,107 @@
+@S0 = { kick.flac }
+@S1 = { clap.flac }
+@R0 = { 3 0 500 64 0 }
+
+A t200 @S0
+A o5a8r4.a8r4.
+A a8r8a8r8a8r4.
+A a8r4.a8r4.
+A a8r8a8r8a8r4.
+A a8r4.a8r4.
+A a8r8a8r8a8r8a8r8
+A a8r4.a8r4.
+A a8r8a8r8a8r4.
+A a8r4.a8r4.
+A a8r8a8r8a8r4.
+A a8r4.a8r4.
+A a8r8a8r8a8r4.
+A a8r4.a8r4.
+A a8r8a8r8a8r8a8r8
+A a8r4.a8r4.
+A a8r8a8r8a8r4.
+A a8r2r8a8r8
+A a8r8a8r8a8r8a8r8
+A a8r2r8a8r8
+A a8r8a8r8a8r8a8r8
+A a8r2r8a8r8
+A a8r8a8r8a8r8a8r8
+A a8r2r8a8r8
+A a8r8a8r8a8r8a8r8
+A a8r2r8a8r8
+A a8r8a8r8a8r8a8r8
+A a8r2r8a8r8
+A a8r8a8r8a8r8a8r8
+A a8r2r8a8r8
+A a8r8a8r8a8r8a8r8
+A a8r2r8a8r8
+A a8r8a8r8a8r8a8r8
+
+B t200 @S1
+B o4g8r1...
+B g8r1...
+B g8r1...
+B g8r1...
+B g8r1...
+B g8r1...
+B g8r1...
+B g8r1...
+B g8r1...
+B g8r1...
+B a8r1...
+B a8r1...
+B g8r1...
+B g8r1...
+B a8r1...
+B a8r1...
+
+C t200 @R0 @BTYPE0 @BV10 @BF8
+C o5a8..r32a16.r32a16.r32a16.r8r32b8r8
+C <c8r8>b8r8a8r8g8r8
+C g8..r32g16.r32g16.r32g16.r8r32a8r8
+C b8r8a8r8g8r8f8r8
+C f8..r32f16.r32f16.r32f16.r8r32g8r8
+C a8r8g8r8f8r8e8r8
+C e8..r32e16.r32e16.r32e16.r8r32f8r8
+C g8r8f8r8e8r8d8r8
+C a8..r32a16.r32a16.r32a16.r8r32b8r8
+C <c8r8>b8r8a8r8g8r8
+C g8..r32g16.r32g16.r32g16.r8r32a8r8
+C b8r8a8r8g8r8f8r8
+C f8..r32f16.r32f16.r32f16.r8r32g8r8
+C a8r8g8r8f8r8e8r8
+C e8..r32e16.r32e16.r32e16.r8r32f8r8
+C g8r8f8r8e8r8d8r8
+C a8..r32a16.r32a16.r32a16.r2....
+C r4..
+C g8..r32g16.r32g16.r32g16.r2....
+C r4..
+C f8..r32f16.r32f16.r32f16.r2....
+C r4..
+C e8..r32e16.r32e16.r32e16.r2....
+C r4..
+C a8..r32a16.r32a16.r32a16.r2....
+C r4..
+C g8..r32g16.r32g16.r32g16.r2....
+C r4..
+C f8..r32f16.r32f16.r32f16.r2....
+C r4..
+C e8..r32e16.r32e16.r32e16.r2....
+C r4..
+>
+D t200 @TYPE3 v128
+D o4a1w1
+D g1w1
+D f1w1
+D e1w1
+D a1w1
+D g1w1
+D f1w1
+D e1w1
+D >a1w1
+D g1w1
+D <f1w1
+D <a1g1
+D >>a1w1
+D g1w1
+D <f1w1
+D <a1b1

@@ -1,0 +1,142 @@
+"In Game Actions"
+{
+	"actions"
+	{
+		"InGameControls"
+		{
+			"title"				"#Set_Ingame"
+			"StickPadGyro"
+			{
+			}
+			"AnalogTrigger"
+			{
+			}
+			"Button"
+			{
+				"ingame_up"		"#Ingame_Up"
+				"ingame_down"		"#Ingame_Down"
+				"ingame_left"		"#Ingame_Left"
+				"ingame_right"		"#Ingame_Right"
+				"ingame_use"		"#Ingame_Use"
+				"ingame_pause"		"#Ingame_Pause"
+				"ingame_menu"		"#Ingame_Menu"
+			}
+		}
+		"MenuControls"
+		{
+			"title"				"#Set_Menu"
+			"StickPadGyro"
+			{
+			}
+			"AnalogTrigger"
+			{
+			}
+			"Button"
+			{
+				"menu_up"		"#Menu_Up"
+				"menu_down"		"#Menu_Down"
+				"menu_left"		"#Menu_Left"
+				"menu_right"		"#Menu_Right"
+				"menu_select"		"#Menu_Select"
+				"menu_cancel"		"#Menu_Cancel"
+				"menu_switch"		"#Menu_Switch"
+				"menu_confirm"		"#Menu_Confirm"
+				"m_pause"		"#M_Pause"
+				"menu_menu"		"#Menu_Menu"
+			}
+		}
+		"ComboControls"
+		{
+			"title"				"#Set_Combos"
+			"StickPadGyro"
+			{
+			}
+			"AnalogTrigger"
+			{
+			}
+			"Button"
+			{
+				"combo_up"		"#Combo_Up"
+				"combo_down"		"#Combo_Down"
+				"combo_left"		"#Combo_Left"
+				"combo_right"		"#Combo_Right"
+				"combo_punch"		"#Combo_Punch"
+				"combo_kick"		"#Combo_Kick"
+				"combo_fierce_punch"	"#Combo_FiercePunch"
+				"combo_fierce_kick"	"#Combo_FierceKick"
+				"combo_cancel"		"#Combo_Cancel"
+			}
+		}
+	}
+	"localization"
+	{
+		"english"
+		{
+			"Set_Ingame"			"In-Game Controls"
+			"Set_Menu"			"Menu Controls"
+			"Set_Combos"			"Combo Controls"
+			"Ingame_Up"			"Up"
+			"Ingame_Down"			"Down"
+			"Ingame_Left"			"Left"
+			"Ingame_Right"			"Right"
+			"Ingame_Use"			"Use"
+			"Ingame_Pause"			"Pause"
+			"Ingame_Menu"			"Menu"
+			"Menu_Up"			"Up"
+			"Menu_Down"			"Down"
+			"Menu_Left"			"Left"
+			"Menu_Right"			"Right"
+			"Menu_Select"			"Select"
+			"Menu_Cancel"			"Cancel"
+			"Menu_Switch"			"Switch Characters"
+			"Menu_Confirm"			"Confirm"
+			"M_Pause"			"Pause"
+			"Menu_Menu"			"Menu"
+			"Combo_Up"			"Up"
+			"Combo_Down"			"Down"
+			"Combo_Left"			"Left"
+			"Combo_Right"			"Right"
+			"Combo_Punch"			"Punch"
+			"Combo_Kick"			"Kick"
+			"Combo_FiercePunch"		"Fierce Punch"
+			"Combo_FierceKick"		"Fierce Kick"
+			"Combo_Cancel"			"Cancel"
+			"Title_Standard"		"Default Dog-O Controls"
+			"Description_Standard"		"Default controls for Dog-O."
+		}
+		"french"
+		{
+			"Set_Ingame"			"Commandes de jeu"
+			"Set_Menu"			"Commandes de menus"
+			"Set_Combos"			"Commandes de combos"
+			"Ingame_Up"			"Haut"
+			"Ingame_Down"			"Bas"
+			"Ingame_Left"			"Gauche"
+			"Ingame_Right"			"Droite"
+			"Ingame_Use"			"Utiliser"
+			"Ingame_Pause"			"Pause"
+			"Ingame_Menu"			"Menu"
+			"Menu_Up"			"Haut"
+			"Menu_Down"			"Bas"
+			"Menu_Left"			"Gauche"
+			"Menu_Right"			"Droite"
+			"Menu_Select"			"Sélectionner"
+			"Menu_Cancel"			"Annuler"
+			"Menu_Switch"			"Changer de personnage"
+			"Menu_Confirm"			"Confirmer"
+			"M_Pause"			"Pause"
+			"Menu_Menu"			"Menu"
+			"Combo_Up"			"Haut"
+			"Combo_Down"			"Bas"
+			"Combo_Left"			"Gauche"
+			"Combo_Right"			"Droite"
+			"Combo_Punch"			"Coup de poing"
+			"Combo_Kick"			"Coup de pied"
+			"Combo_FiercePunch"		"Coup de poing puissant"
+			"Combo_FierceKick"		"Coup de pied puissant"
+			"Combo_Cancel"			"Annuler"
+			"Title_Standard"		"Commandes par défaut de Dog-O"
+			"Description_Standard"		"Les commandes par défaut pour Dog-O."
+		}
+	}
+}

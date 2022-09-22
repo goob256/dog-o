@@ -1,0 +1,14 @@
+#!/bin/sh
+cd tgui4/build
+make -j4
+cd ../..
+cd shim2/build
+make -j4
+cd ../..
+cd wedge2/build
+make -j4
+cd ../..
+cd dog-o/build
+rm dog-o
+make -j4
+cd ../..

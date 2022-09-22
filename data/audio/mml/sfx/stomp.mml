@@ -1,0 +1,5 @@
+@S0 = { thud.flac }
+@PO0 = { 0 100 }
+@VAS0 = { 0 }
+A o2 @CP1 @PO0 @VAS0 a16. @VAS0 @PO0 r4
+B @S0 r8. c

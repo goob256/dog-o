@@ -1,0 +1,5 @@
+@PO0 = { 0 -5 -10 -5 }
+@PO1 = { 0 7500 0 }
+@VAS0 = { 255 0 }
+A o2 @CP3 @TYPE2 @PO0 a @PO0 r
+A r32 @CP3 @CV3 o0 @TYPE1 v0 @PO1 @VAS0 c14 @VAS0 @PO1

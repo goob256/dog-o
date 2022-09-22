@@ -1,0 +1,3 @@
+@VAS0 = { 0 }
+A v1024 l32 o5 @TYPE1 a>a>a<a<<< @VAS0 a16 @VAS0
+B v512 l32 o5 @TYPE5 a>a>a<a<<< @VAS0 a16 @VAS0

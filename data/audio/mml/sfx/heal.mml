@@ -1,0 +1,27 @@
+@PO0 = { 0 100 }
+@PO1 = { 0 200 }
+@PO2 = { 0 300 }
+@PO3 = { 0 400 }
+@PO4 = { 0 500 }
+@PO5 = { 0 600 }
+@PO6 = { 0 700 }
+@PO7 = { 0 800 }
+@PO8 = { 0 900 }
+@PO9 = { 0 1000 }
+
+@PO10 = { 0 1000 }
+@R0 = { 5 0 500 255 32 }
+
+A @TYPE3
+A @PO0 c16 @PO0
+A @PO1 c16 @PO1
+A @PO2 c16 @PO2
+A @PO3 c16 @PO3
+A @PO4 c16 @PO4
+A @PO5 c16 @PO5
+A @PO6 c16 @PO6
+A @PO7 c16 @PO7
+A @PO8 c16 @PO8
+A @PO9 c16 @PO9
+
+A @TYPE3 @R0 @CP2 @PO0 d8 @PO0

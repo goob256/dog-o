@@ -1,0 +1,13 @@
+diff -ur third_party/SDL2-2.0.10/android-project/app/src/main/java/org/libsdl/app/SDLActivity.java dog-o/android-studio/app/src/main/java/org/libsdl/app/SDLActivity.java
+--- third_party/SDL2-2.0.10/android-project/app/src/main/java/org/libsdl/app/SDLActivity.java	2019-07-24 22:32:36 -0600
++++ dog-o/android-studio/app/src/main/java/org/libsdl/app/SDLActivity.java	2020-03-06 20:48:15 -0700
+@@ -116,7 +116,8 @@
+         } else {
+             library = "libmain.so";
+         }
+-        return getContext().getApplicationInfo().nativeLibraryDir + "/" + library;
++        //return getContext().getApplicationInfo().nativeLibraryDir + "/" + library;
++        return library;
+     }
+ 
+     /**

@@ -1,0 +1,98 @@
+{ "frames": {
+   "attack_burning_boot 0.tga": {
+    "frame": { "x": 0, "y": 0, "w": 36, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 30 },
+    "sourceSize": { "w": 36, "h": 30 },
+    "duration": 100
+   },
+   "attack_burning_boot 1.tga": {
+    "frame": { "x": 36, "y": 0, "w": 36, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 30 },
+    "sourceSize": { "w": 36, "h": 30 },
+    "duration": 300
+   },
+   "attack_burning_boot 2.tga": {
+    "frame": { "x": 72, "y": 0, "w": 36, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 30 },
+    "sourceSize": { "w": 36, "h": 30 },
+    "duration": 50
+   },
+   "attack_burning_boot 3.tga": {
+    "frame": { "x": 108, "y": 0, "w": 36, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 30 },
+    "sourceSize": { "w": 36, "h": 30 },
+    "duration": 50
+   },
+   "attack_burning_boot 4.tga": {
+    "frame": { "x": 144, "y": 0, "w": 36, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 30 },
+    "sourceSize": { "w": 36, "h": 30 },
+    "duration": 75
+   },
+   "attack_burning_boot 5.tga": {
+    "frame": { "x": 180, "y": 0, "w": 36, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 30 },
+    "sourceSize": { "w": 36, "h": 30 },
+    "duration": 50
+   },
+   "attack_burning_boot 6.tga": {
+    "frame": { "x": 216, "y": 0, "w": 36, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 30 },
+    "sourceSize": { "w": 36, "h": 30 },
+    "duration": 50
+   },
+   "attack_burning_boot 7.tga": {
+    "frame": { "x": 252, "y": 0, "w": 36, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 30 },
+    "sourceSize": { "w": 36, "h": 30 },
+    "duration": 50
+   },
+   "attack_burning_boot 8.tga": {
+    "frame": { "x": 288, "y": 0, "w": 36, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 30 },
+    "sourceSize": { "w": 36, "h": 30 },
+    "duration": 100
+   },
+   "attack_burning_boot 9.tga": {
+    "frame": { "x": 324, "y": 0, "w": 36, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 30 },
+    "sourceSize": { "w": 36, "h": 30 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9-x64",
+  "image": "C:\\Users\\trent\\code\\dog-o\\data\\gfx\\sprites\\tom\\attack_kick_flip.tga",
+  "format": "RGBA8888",
+  "size": { "w": 360, "h": 30 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Sprite Sheet", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

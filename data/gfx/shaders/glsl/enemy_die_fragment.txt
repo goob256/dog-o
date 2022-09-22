@@ -1,0 +1,81 @@
+uniform sampler2D tex;
+
+uniform float p; // percent 0-1 total effect done
+uniform float tint_p; // percent till full tint
+uniform vec4 tint;
+uniform int current_frame;
+uniform int num_frames;
+uniform int sprite_w;
+uniform int sprite_h;
+uniform float scale;
+uniform bool inverse_x;
+
+varying vec4 colour;
+varying vec2 texcoord;
+
+void main()
+{
+	vec4 result;
+
+	float each = 1.0 / float(num_frames);
+	float curr = each * float(current_frame);
+	vec2 t = vec2((texcoord.x - curr) / each, 1.0 - texcoord.y);
+
+	// make it pixelated
+	vec2 pix = vec2(1.0 / float(sprite_w), 1.0 / float(sprite_h));
+	vec2 extra = mod(t, pix);
+	t -= extra;
+
+	float biggest = max(float(sprite_w), float(sprite_h));
+	float smallest = min(float(sprite_w), float(sprite_h));
+	float r = biggest / smallest + 1.0;
+
+	float tx;
+	if (inverse_x) {
+		tx = 1.0 - t.x;
+	}
+	else {
+		tx = t.x;
+	}
+	float d = tx - ((t.y-1.0) + r * p);
+
+	if (d <= 0.0) {
+		result = vec4(0.0, 0.0, 0.0, 0.0);
+	}
+	else {
+		result = texture2D(tex, texcoord) * colour;
+
+		float p2 = d / 0.2 / r;
+
+		if (p2 <= 1.0) {
+			p2 = 1.0 - p2;
+			p2 = p2 * p2;
+			float p3 = 1.0 - p2;
+
+			float shade = result.r*0.21 + result.g*0.72 + result.b*0.07;
+
+			result = vec4(
+				p3 * result.r + p2 * shade * tint.r,
+				p3 * result.g + p2 * shade * tint.g,
+				p3 * result.b + p2 * shade * tint.b,
+				result.a
+			);
+
+			result *= p3;
+
+			/*
+			float p2 = min(1.0, p / tint_p);
+			float p3 = 1.0 - p2;
+
+			result = vec4(
+				p3 * result.r + p2 * shade * tint.r,
+				p3 * result.g + p2 * shade * tint.g,
+				p3 * result.b + p2 * shade * tint.b,
+				result.a
+			);
+			*/
+		}
+	}
+
+	gl_FragColor = result;
+}

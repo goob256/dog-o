@@ -1,0 +1,6 @@
+@PO0 = { 0 -5 -10 -5 }
+@PO1 = { -1024 1024 -1024 }
+@VAS0 = { 255 0 255 }
+@VAS1 = { 255 0 0 }
+A o2 @CP3 @TYPE2 @PO0 a @PO0
+A @TYPE1 o6 @CP1 @CV1 @PO1 @VAS0 a16. a16. a16. a16. a16. a16. @VAS0 @VAS1 a16. @VAS1 @PO1

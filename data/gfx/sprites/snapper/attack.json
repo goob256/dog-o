@@ -1,0 +1,178 @@
+{ "frames": {
+   "attack 0.tga": {
+    "frame": { "x": 0, "y": 0, "w": 20, "h": 38 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 38 },
+    "sourceSize": { "w": 20, "h": 38 },
+    "duration": 100
+   },
+   "attack 1.tga": {
+    "frame": { "x": 20, "y": 0, "w": 20, "h": 38 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 38 },
+    "sourceSize": { "w": 20, "h": 38 },
+    "duration": 50
+   },
+   "attack 2.tga": {
+    "frame": { "x": 40, "y": 0, "w": 20, "h": 38 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 38 },
+    "sourceSize": { "w": 20, "h": 38 },
+    "duration": 50
+   },
+   "attack 3.tga": {
+    "frame": { "x": 60, "y": 0, "w": 20, "h": 38 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 38 },
+    "sourceSize": { "w": 20, "h": 38 },
+    "duration": 50
+   },
+   "attack 4.tga": {
+    "frame": { "x": 80, "y": 0, "w": 20, "h": 38 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 38 },
+    "sourceSize": { "w": 20, "h": 38 },
+    "duration": 150
+   },
+   "attack 5.tga": {
+    "frame": { "x": 100, "y": 0, "w": 20, "h": 38 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 38 },
+    "sourceSize": { "w": 20, "h": 38 },
+    "duration": 75
+   },
+   "attack 6.tga": {
+    "frame": { "x": 120, "y": 0, "w": 20, "h": 38 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 38 },
+    "sourceSize": { "w": 20, "h": 38 },
+    "duration": 50
+   },
+   "attack 7.tga": {
+    "frame": { "x": 140, "y": 0, "w": 20, "h": 38 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 38 },
+    "sourceSize": { "w": 20, "h": 38 },
+    "duration": 100
+   },
+   "attack 8.tga": {
+    "frame": { "x": 160, "y": 0, "w": 20, "h": 38 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 38 },
+    "sourceSize": { "w": 20, "h": 38 },
+    "duration": 200
+   },
+   "attack 9.tga": {
+    "frame": { "x": 180, "y": 0, "w": 20, "h": 38 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 38 },
+    "sourceSize": { "w": 20, "h": 38 },
+    "duration": 40
+   },
+   "attack 10.tga": {
+    "frame": { "x": 200, "y": 0, "w": 20, "h": 38 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 38 },
+    "sourceSize": { "w": 20, "h": 38 },
+    "duration": 40
+   },
+   "attack 11.tga": {
+    "frame": { "x": 220, "y": 0, "w": 20, "h": 38 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 38 },
+    "sourceSize": { "w": 20, "h": 38 },
+    "duration": 40
+   },
+   "attack 12.tga": {
+    "frame": { "x": 240, "y": 0, "w": 20, "h": 38 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 38 },
+    "sourceSize": { "w": 20, "h": 38 },
+    "duration": 40
+   },
+   "attack 13.tga": {
+    "frame": { "x": 260, "y": 0, "w": 20, "h": 38 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 38 },
+    "sourceSize": { "w": 20, "h": 38 },
+    "duration": 40
+   },
+   "attack 14.tga": {
+    "frame": { "x": 280, "y": 0, "w": 20, "h": 38 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 38 },
+    "sourceSize": { "w": 20, "h": 38 },
+    "duration": 40
+   },
+   "attack 15.tga": {
+    "frame": { "x": 300, "y": 0, "w": 20, "h": 38 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 38 },
+    "sourceSize": { "w": 20, "h": 38 },
+    "duration": 40
+   },
+   "attack 16.tga": {
+    "frame": { "x": 320, "y": 0, "w": 20, "h": 38 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 38 },
+    "sourceSize": { "w": 20, "h": 38 },
+    "duration": 40
+   },
+   "attack 17.tga": {
+    "frame": { "x": 340, "y": 0, "w": 20, "h": 38 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 38 },
+    "sourceSize": { "w": 20, "h": 38 },
+    "duration": 40
+   },
+   "attack 18.tga": {
+    "frame": { "x": 360, "y": 0, "w": 20, "h": 38 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 38 },
+    "sourceSize": { "w": 20, "h": 38 },
+    "duration": 50
+   },
+   "attack 19.tga": {
+    "frame": { "x": 380, "y": 0, "w": 20, "h": 38 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 38 },
+    "sourceSize": { "w": 20, "h": 38 },
+    "duration": 50
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9-x64",
+  "image": "C:\\Users\\trent\\code\\dog-o\\data\\gfx\\sprites\\snapper\\attack.tga",
+  "format": "RGBA8888",
+  "size": { "w": 400, "h": 38 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Sprite Sheet", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

@@ -1,0 +1,58 @@
+{ "frames": {
+   "idle 0.tga": {
+    "frame": { "x": 0, "y": 0, "w": 40, "h": 26 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 26 },
+    "sourceSize": { "w": 40, "h": 26 },
+    "duration": 250
+   },
+   "idle 1.tga": {
+    "frame": { "x": 40, "y": 0, "w": 40, "h": 26 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 26 },
+    "sourceSize": { "w": 40, "h": 26 },
+    "duration": 250
+   },
+   "idle 2.tga": {
+    "frame": { "x": 80, "y": 0, "w": 40, "h": 26 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 26 },
+    "sourceSize": { "w": 40, "h": 26 },
+    "duration": 250
+   },
+   "idle 3.tga": {
+    "frame": { "x": 120, "y": 0, "w": 40, "h": 26 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 26 },
+    "sourceSize": { "w": 40, "h": 26 },
+    "duration": 250
+   },
+   "idle 4.tga": {
+    "frame": { "x": 160, "y": 0, "w": 40, "h": 26 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 26 },
+    "sourceSize": { "w": 40, "h": 26 },
+    "duration": 250
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.17-x64",
+  "image": "heart.tga",
+  "format": "RGBA8888",
+  "size": { "w": 200, "h": 26 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Sprite Sheet", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

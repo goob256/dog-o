@@ -1,0 +1,194 @@
+{ "frames": {
+   "bone1 0.gif": {
+    "frame": { "x": 0, "y": 0, "w": 50, "h": 40 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 50, "h": 40 },
+    "sourceSize": { "w": 50, "h": 40 },
+    "duration": 500
+   },
+   "bone1 1.gif": {
+    "frame": { "x": 50, "y": 0, "w": 50, "h": 40 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 50, "h": 40 },
+    "sourceSize": { "w": 50, "h": 40 },
+    "duration": 50
+   },
+   "bone1 2.gif": {
+    "frame": { "x": 100, "y": 0, "w": 50, "h": 40 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 50, "h": 40 },
+    "sourceSize": { "w": 50, "h": 40 },
+    "duration": 50
+   },
+   "bone1 3.gif": {
+    "frame": { "x": 150, "y": 0, "w": 50, "h": 40 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 50, "h": 40 },
+    "sourceSize": { "w": 50, "h": 40 },
+    "duration": 50
+   },
+   "bone1 4.gif": {
+    "frame": { "x": 200, "y": 0, "w": 50, "h": 40 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 50, "h": 40 },
+    "sourceSize": { "w": 50, "h": 40 },
+    "duration": 50
+   },
+   "bone1 5.gif": {
+    "frame": { "x": 250, "y": 0, "w": 50, "h": 40 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 50, "h": 40 },
+    "sourceSize": { "w": 50, "h": 40 },
+    "duration": 50
+   },
+   "bone1 6.gif": {
+    "frame": { "x": 300, "y": 0, "w": 50, "h": 40 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 50, "h": 40 },
+    "sourceSize": { "w": 50, "h": 40 },
+    "duration": 50
+   },
+   "bone1 7.gif": {
+    "frame": { "x": 350, "y": 0, "w": 50, "h": 40 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 50, "h": 40 },
+    "sourceSize": { "w": 50, "h": 40 },
+    "duration": 64
+   },
+   "bone1 8.gif": {
+    "frame": { "x": 400, "y": 0, "w": 50, "h": 40 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 50, "h": 40 },
+    "sourceSize": { "w": 50, "h": 40 },
+    "duration": 64
+   },
+   "bone1 9.gif": {
+    "frame": { "x": 450, "y": 0, "w": 50, "h": 40 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 50, "h": 40 },
+    "sourceSize": { "w": 50, "h": 40 },
+    "duration": 64
+   },
+   "bone1 10.gif": {
+    "frame": { "x": 500, "y": 0, "w": 50, "h": 40 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 50, "h": 40 },
+    "sourceSize": { "w": 50, "h": 40 },
+    "duration": 64
+   },
+   "bone1 11.gif": {
+    "frame": { "x": 550, "y": 0, "w": 50, "h": 40 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 50, "h": 40 },
+    "sourceSize": { "w": 50, "h": 40 },
+    "duration": 64
+   },
+   "bone1 12.gif": {
+    "frame": { "x": 600, "y": 0, "w": 50, "h": 40 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 50, "h": 40 },
+    "sourceSize": { "w": 50, "h": 40 },
+    "duration": 64
+   },
+   "bone1 13.gif": {
+    "frame": { "x": 650, "y": 0, "w": 50, "h": 40 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 50, "h": 40 },
+    "sourceSize": { "w": 50, "h": 40 },
+    "duration": 75
+   },
+   "bone1 14.gif": {
+    "frame": { "x": 700, "y": 0, "w": 50, "h": 40 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 50, "h": 40 },
+    "sourceSize": { "w": 50, "h": 40 },
+    "duration": 50
+   },
+   "bone1 15.gif": {
+    "frame": { "x": 750, "y": 0, "w": 50, "h": 40 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 50, "h": 40 },
+    "sourceSize": { "w": 50, "h": 40 },
+    "duration": 50
+   },
+   "bone1 16.gif": {
+    "frame": { "x": 800, "y": 0, "w": 50, "h": 40 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 50, "h": 40 },
+    "sourceSize": { "w": 50, "h": 40 },
+    "duration": 50
+   },
+   "bone1 17.gif": {
+    "frame": { "x": 850, "y": 0, "w": 50, "h": 40 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 50, "h": 40 },
+    "sourceSize": { "w": 50, "h": 40 },
+    "duration": 300
+   },
+   "bone1 18.gif": {
+    "frame": { "x": 900, "y": 0, "w": 50, "h": 40 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 50, "h": 40 },
+    "sourceSize": { "w": 50, "h": 40 },
+    "duration": 75
+   },
+   "bone1 19.gif": {
+    "frame": { "x": 950, "y": 0, "w": 50, "h": 40 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 50, "h": 40 },
+    "sourceSize": { "w": 50, "h": 40 },
+    "duration": 75
+   },
+   "bone1 20.gif": {
+    "frame": { "x": 1000, "y": 0, "w": 50, "h": 40 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 50, "h": 40 },
+    "sourceSize": { "w": 50, "h": 40 },
+    "duration": 75
+   },
+   "bone1 21.gif": {
+    "frame": { "x": 1050, "y": 0, "w": 50, "h": 40 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 50, "h": 40 },
+    "sourceSize": { "w": 50, "h": 40 },
+    "duration": 75
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9-x64",
+  "image": "C:\\Users\\trent\\code\\dog-o\\data\\gfx\\sprites\\bone\\attack.tga",
+  "format": "RGBA8888",
+  "size": { "w": 1100, "h": 40 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

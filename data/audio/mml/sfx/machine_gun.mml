@@ -1,0 +1,3 @@
+@PAS0 = { 50 5 }
+A v1024 t600 rrrrrrrrr @TYPE0 o1 @PAS0 a a a a a @PAS0
+B v1024 t600 rrrrrrrrr @TYPE1 o7 a a a a a

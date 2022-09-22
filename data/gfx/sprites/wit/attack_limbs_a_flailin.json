@@ -1,0 +1,114 @@
+{ "frames": {
+   "attack_beatdown 0.tga": {
+    "frame": { "x": 0, "y": 0, "w": 40, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 32 },
+    "sourceSize": { "w": 40, "h": 32 },
+    "duration": 200
+   },
+   "attack_beatdown 1.tga": {
+    "frame": { "x": 40, "y": 0, "w": 40, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 32 },
+    "sourceSize": { "w": 40, "h": 32 },
+    "duration": 32
+   },
+   "attack_beatdown 2.tga": {
+    "frame": { "x": 80, "y": 0, "w": 40, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 32 },
+    "sourceSize": { "w": 40, "h": 32 },
+    "duration": 32
+   },
+   "attack_beatdown 3.tga": {
+    "frame": { "x": 120, "y": 0, "w": 40, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 32 },
+    "sourceSize": { "w": 40, "h": 32 },
+    "duration": 250
+   },
+   "attack_beatdown 4.tga": {
+    "frame": { "x": 160, "y": 0, "w": 40, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 32 },
+    "sourceSize": { "w": 40, "h": 32 },
+    "duration": 250
+   },
+   "attack_beatdown 5.tga": {
+    "frame": { "x": 200, "y": 0, "w": 40, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 32 },
+    "sourceSize": { "w": 40, "h": 32 },
+    "duration": 250
+   },
+   "attack_beatdown 6.tga": {
+    "frame": { "x": 240, "y": 0, "w": 40, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 32 },
+    "sourceSize": { "w": 40, "h": 32 },
+    "duration": 250
+   },
+   "attack_beatdown 7.tga": {
+    "frame": { "x": 280, "y": 0, "w": 40, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 32 },
+    "sourceSize": { "w": 40, "h": 32 },
+    "duration": 250
+   },
+   "attack_beatdown 8.tga": {
+    "frame": { "x": 320, "y": 0, "w": 40, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 32 },
+    "sourceSize": { "w": 40, "h": 32 },
+    "duration": 250
+   },
+   "attack_beatdown 9.tga": {
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 32 },
+    "sourceSize": { "w": 40, "h": 32 },
+    "duration": 32
+   },
+   "attack_beatdown 10.tga": {
+    "frame": { "x": 400, "y": 0, "w": 40, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 32 },
+    "sourceSize": { "w": 40, "h": 32 },
+    "duration": 32
+   },
+   "attack_beatdown 11.tga": {
+    "frame": { "x": 440, "y": 0, "w": 40, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 32 },
+    "sourceSize": { "w": 40, "h": 32 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.17-x64",
+  "image": "attack_limbs_a_flailin.tga",
+  "format": "RGBA8888",
+  "size": { "w": 480, "h": 32 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Sprite Sheet", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

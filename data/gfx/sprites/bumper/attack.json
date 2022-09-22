@@ -1,0 +1,42 @@
+{ "frames": {
+   "attack 0.tga": {
+    "frame": { "x": 0, "y": 0, "w": 44, "h": 44 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 44, "h": 44 },
+    "sourceSize": { "w": 44, "h": 44 },
+    "duration": 200
+   },
+   "attack 1.tga": {
+    "frame": { "x": 44, "y": 0, "w": 44, "h": 44 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 44, "h": 44 },
+    "sourceSize": { "w": 44, "h": 44 },
+    "duration": 100
+   },
+   "attack 2.tga": {
+    "frame": { "x": 88, "y": 0, "w": 44, "h": 44 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 44, "h": 44 },
+    "sourceSize": { "w": 44, "h": 44 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.17-x64",
+  "image": "attack.tga",
+  "format": "RGBA8888",
+  "size": { "w": 132, "h": 44 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Sprite Sheet", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

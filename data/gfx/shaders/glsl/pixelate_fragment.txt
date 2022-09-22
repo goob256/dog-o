@@ -1,0 +1,23 @@
+uniform sampler2D tex;
+
+uniform int draw_w;
+uniform int draw_h;
+
+varying vec4 colour;
+varying vec2 texcoord;
+
+void main()
+{
+	vec4 result;
+
+	// make it pixelated
+	vec2 half_pix = vec2(0.5 / float(draw_w), 0.5 / float(draw_h));
+	vec2 pix = vec2(1.0 / float(draw_w), 1.0 / float(draw_h));
+	vec2 t = texcoord + half_pix;
+	vec2 extra = mod(t, pix);
+	t -= extra;
+
+	result = texture2D(tex, t) * colour;
+
+	gl_FragColor = result;
+}

@@ -1,0 +1,146 @@
+{ "frames": {
+   "stand_w 0.tga": {
+    "frame": { "x": 0, "y": 0, "w": 150, "h": 40 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 40 },
+    "sourceSize": { "w": 150, "h": 40 },
+    "duration": 100
+   },
+   "stand_w 1.tga": {
+    "frame": { "x": 150, "y": 0, "w": 150, "h": 40 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 40 },
+    "sourceSize": { "w": 150, "h": 40 },
+    "duration": 250
+   },
+   "stand_w 2.tga": {
+    "frame": { "x": 300, "y": 0, "w": 150, "h": 40 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 40 },
+    "sourceSize": { "w": 150, "h": 40 },
+    "duration": 32
+   },
+   "stand_w 3.tga": {
+    "frame": { "x": 450, "y": 0, "w": 150, "h": 40 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 40 },
+    "sourceSize": { "w": 150, "h": 40 },
+    "duration": 32
+   },
+   "stand_w 4.tga": {
+    "frame": { "x": 600, "y": 0, "w": 150, "h": 40 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 40 },
+    "sourceSize": { "w": 150, "h": 40 },
+    "duration": 32
+   },
+   "stand_w 5.tga": {
+    "frame": { "x": 750, "y": 0, "w": 150, "h": 40 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 40 },
+    "sourceSize": { "w": 150, "h": 40 },
+    "duration": 32
+   },
+   "stand_w 6.tga": {
+    "frame": { "x": 900, "y": 0, "w": 150, "h": 40 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 40 },
+    "sourceSize": { "w": 150, "h": 40 },
+    "duration": 32
+   },
+   "stand_w 7.tga": {
+    "frame": { "x": 1050, "y": 0, "w": 150, "h": 40 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 40 },
+    "sourceSize": { "w": 150, "h": 40 },
+    "duration": 32
+   },
+   "stand_w 8.tga": {
+    "frame": { "x": 1200, "y": 0, "w": 150, "h": 40 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 40 },
+    "sourceSize": { "w": 150, "h": 40 },
+    "duration": 32
+   },
+   "stand_w 9.tga": {
+    "frame": { "x": 1350, "y": 0, "w": 150, "h": 40 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 40 },
+    "sourceSize": { "w": 150, "h": 40 },
+    "duration": 32
+   },
+   "stand_w 10.tga": {
+    "frame": { "x": 1500, "y": 0, "w": 150, "h": 40 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 40 },
+    "sourceSize": { "w": 150, "h": 40 },
+    "duration": 32
+   },
+   "stand_w 11.tga": {
+    "frame": { "x": 1650, "y": 0, "w": 150, "h": 40 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 40 },
+    "sourceSize": { "w": 150, "h": 40 },
+    "duration": 32
+   },
+   "stand_w 12.tga": {
+    "frame": { "x": 1800, "y": 0, "w": 150, "h": 40 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 40 },
+    "sourceSize": { "w": 150, "h": 40 },
+    "duration": 32
+   },
+   "stand_w 13.tga": {
+    "frame": { "x": 1950, "y": 0, "w": 150, "h": 40 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 40 },
+    "sourceSize": { "w": 150, "h": 40 },
+    "duration": 32
+   },
+   "stand_w 14.tga": {
+    "frame": { "x": 2100, "y": 0, "w": 150, "h": 40 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 40 },
+    "sourceSize": { "w": 150, "h": 40 },
+    "duration": 100
+   },
+   "stand_w 15.tga": {
+    "frame": { "x": 2250, "y": 0, "w": 150, "h": 40 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 40 },
+    "sourceSize": { "w": 150, "h": 40 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.17-x64",
+  "image": "attack_nose_breaker.tga",
+  "format": "RGBA8888",
+  "size": { "w": 2400, "h": 40 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Layer", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

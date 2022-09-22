@@ -1,0 +1,10 @@
+@PO0 = { 0 100 }
+@PO1 = { 0 100 0 }
+@VAS0 = { 0 }
+@PA0 = { 50 }
+@PA1 = { 0 }
+
+A r16 o2 @CP1 @PO0 @VAS0 a16. @VAS0 @PO0
+A r8. @CP3 @PO1 c32.. @PO1 @PO1 b32.. @PO1 @PO1 g32.. @PO1
+B r4... r16 @TYPE1 o5 @PA0 a @PA1
+C r4... r16 @TYPE0 o2 @PA1 a @PA1

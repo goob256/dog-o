@@ -1,0 +1,20 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 23 min SDK version: x86",
+    "file": "C:\\Users\\trent\\code\\dog-o\\android-studio\\ndk-build-project\\jni\\Android.mk",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON \u0027C:\\Users\\trent\\code\\dog-o\\android-studio\\app\\.cxx\\ndkBuild\\release\\x86\\android_gradle_build.json\u0027 was up-to-date",
+    "file": "C:\\Users\\trent\\code\\dog-o\\android-studio\\ndk-build-project\\jni\\Android.mk",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems",
+    "file": "C:\\Users\\trent\\code\\dog-o\\android-studio\\ndk-build-project\\jni\\Android.mk",
+    "tag": "release|x86"
+  }
+]

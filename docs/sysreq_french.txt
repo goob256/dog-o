@@ -1,0 +1,5 @@
+Windows 7+
+Intel Atom
+Intel HD
+1280x720 minimum
+

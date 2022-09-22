@@ -1,0 +1,5 @@
+#!/bin/sh
+mkdir ~/code/dog-o/build/steam
+cd ~/code/dog-o/data
+compress_dir
+cp ~/code/libsteam_api.so ~/code/dog-o/data.cpa ~/code/dog-o/build/dog-o ~/code/dog-o/docs/3rd_party.html ~/code/dog-o/build/steam

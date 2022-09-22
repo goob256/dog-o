@@ -1,0 +1,32 @@
+Le pêcheur
+Trouvez Tom.
+
+Newton et sa pomme
+Ramassez une pomme par terre.
+
+Tous en kimono
+Découvrez le fonctionnement des combats.
+
+Ceinture Blanche
+Obtenez votre ceinture blanche.
+
+MULTIPLICATEUR+
+Atteignez le niveau 1 de multiplicateur.
+
+MULTIPLICATEUR++
+Atteignez le niveau 2 de multiplicateur.
+
+MULTIPLICATEUR+++
+Atteignez le niveau 3 de multiplicateur.
+
+Tout au fond
+Terrassez 100 ennemis.
+
+Ceinture jaune
+Obtenez votre ceinture jaune.
+
+Bandit pas manchot
+Terrassez Octo.
+
+Ceinture Dorée
+Obtenez votre ceinture dorée.

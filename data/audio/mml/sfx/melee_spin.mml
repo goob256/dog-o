@@ -1,0 +1,6 @@
+@PO0 = { 0 5000 0 5000 0 5000 0 5000 0 5000 0 }
+@PO1 = { 0 100 }
+@VAS0 = { 0 }
+
+A r8 @TYPE0 o2 @CP1 @PO1 @VAS0 a16. @VAS0 @PO1
+A v128 @CP1 o5 @TYPE1 @PO0 a. a. @PO0

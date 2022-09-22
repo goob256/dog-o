@@ -1,0 +1,89 @@
+struct VS_OUTPUT
+{
+	float4 Position : POSITION0;
+	float2 TexCoord : TEXCOORD0;
+	float4 Colour	: COLOR0;
+	float4 gl_FragCoord : TEXCOORD1;
+};
+
+texture tex;
+sampler2D s = sampler_state {
+	texture = <tex>;
+};
+
+float p; // percent 0-1 total effect done
+float tint_p; // percent till full tint
+float4 tint;
+int current_frame;
+int num_frames;
+int sprite_w;
+int sprite_h;
+float scale;
+bool inverse_x;
+
+float4 main(VS_OUTPUT Input) : COLOR0
+{
+	float4 result;
+
+	float each = 1.0f / num_frames;
+	float curr = each * current_frame;
+	float2 t = float2((Input.TexCoord.x - curr) / each, 1.0f - Input.TexCoord.y);
+
+	// make it pixelated
+	float2 pix = float2(1.0f / sprite_w, 1.0f / sprite_h);
+	float2 extra = t % pix;
+	t -= extra;
+
+	float biggest = max(sprite_w, sprite_h);
+	float smallest = min(sprite_w, sprite_h);
+	float r = biggest / smallest + 1.0f;
+
+	float tx;
+	if (inverse_x) {
+		tx = 1.0f - t.x;
+	}
+	else {
+		tx = t.x;
+	}
+	float d = tx - ((t.y-1.0f) + r * p);
+
+	if (d <= 0.0f) {
+		result = float4(0.0f, 0.0f, 0.0f, 0.0f);
+	}
+	else {
+		result = tex2D(s, Input.TexCoord) * Input.Colour;
+
+		float p2 = d / 0.2 / r;
+
+		if (p2 <= 1.0f) {
+			p2 = 1.0f - p2;
+			p2 = p2 * p2;
+			float p3 = 1.0f - p2;
+
+			float shade = result.r*0.21f + result.g*0.72f + result.b*0.07f;
+
+			result = float4(
+				p3 * result.r + p2 * shade * tint.r,
+				p3 * result.g + p2 * shade * tint.g,
+				p3 * result.b + p2 * shade * tint.b,
+				result.a
+			);
+
+			result *= p3;
+
+			/*
+			float p2 = min(1.0f, p / tint_p);
+			float p3 = 1.0f - p2;
+
+			result = float4(
+				p3 * result.r + p2 * shade * tint.r,
+				p3 * result.g + p2 * shade * tint.g,
+				p3 * result.b + p2 * shade * tint.b,
+				result.a
+			);
+			*/
+		}
+	}
+
+	return result;
+}

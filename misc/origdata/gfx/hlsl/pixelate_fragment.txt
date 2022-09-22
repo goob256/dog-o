@@ -1,0 +1,31 @@
+struct VS_OUTPUT
+{
+	float4 Position : POSITION0;
+	float2 TexCoord : TEXCOORD0;
+	float4 Colour	: COLOR0;
+	float4 gl_FragCoord : TEXCOORD1;
+};
+
+texture tex;
+sampler2D s = sampler_state {
+	texture = <tex>;
+};
+
+int draw_w;
+int draw_h;
+
+float4 main(VS_OUTPUT Input) : COLOR0
+{
+	float4 result;
+
+	// make it pixelated
+	float2 half_pix = float2(0.5f / float(draw_w), 0.5f / float(draw_h));
+	float2 pix = float2(1.0f / float(draw_w), 1.0f / float(draw_h));
+	float2 t = Input.TexCoord + half_pix;
+	float2 extra = t % pix;
+	t -= extra;
+
+	result = tex2D(s, t) * Input.Colour;
+
+	return result;
+}

@@ -1,0 +1,57 @@
+@S0 = { kick.flac }
+@S1 = { clap.flac }
+
+A t130 @S0
+A o5c16c16c16r16c8r2r8
+A c16c16c16r16c8r2r8
+A c16c16c16r16c8r2r8
+A c16c16c16r16c16r16c16r8.c16r8.c16r16
+A o5c16c16c16r16c8r2r8
+A c16c16c16r16c8r2r8
+A c16c16c16r16c8r2r8
+A c16c16c16r16c16r16c16r8.c16r8.c16r16
+A o5c16c16c16r16c8r2r8
+A c16c16c16r16c8r2r8
+A c16c16c16r16c8r2r8
+A c16c16c16r16c16r16c16r8.c16r8.c16r16
+A o5c16c16c16r16c8r2r8
+A c16c16c16r16c8r2r8
+A c16c16c16r16c8r2r8
+A c16c16c16r16c16r16c16r8.c16r8.c16r16
+
+B t130 @S1
+B r4.o5c8r4.c8
+B r4.c8r4.c8
+B r4.c8r4.c8
+B r1
+B r4.o5c8r4.c8
+B r4.c8r4.c8
+B r4.c8r4.c8
+B r1
+B r4.o5c8r4.c8
+B r4.c8r4.c8
+B r4.c8r4.c8
+B r1
+B r4.o5c8r4.c8
+B r4.c8r4.c8
+B r4.c8r4.c8
+B r1
+
+C @TYPE3 t130 @BTYPE3 @BF3 @BV64
+C o5c16>b8.<c16r2r8.
+C c16>b8.<c16r2r8.
+C c16>b8.<c16r2r8.
+C c16r16c16r8.>b16r16<c16>b16<c16>b16<c16>b16<c16>b16
+C o5c16>b8.<c16r2r8.
+C c16>b8.<c16r2r8.
+C c16>b8.<c16r2r8.
+C c16r16c16r8.>b16r16<c16>b16<c16>b16<c16>b16<c16>b16
+C o5c16>b8.<c16r2r8.
+C c16>b8.<c16r2r8.
+C c16>b8.<c16r2r8.
+C c16r16c16r8.>b16r16<c16>b16<c16>b16<c16>b16<c16>b16
+C o5c16>b8.<c16r2r8.
+C c16>b8.<c16r2r8.
+C c16>b8.<c16r2r8.
+C c16r16c16r8.>b16r16<c16>b16<c16>b16<c16>b16<c16>b16
+C o5c16>b8.<c16r2r8.

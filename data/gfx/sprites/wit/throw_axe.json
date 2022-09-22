@@ -1,0 +1,34 @@
+{ "frames": {
+   "throw_axe 0.tga": {
+    "frame": { "x": 0, "y": 0, "w": 20, "h": 16 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 16 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 500
+   },
+   "throw_axe 1.tga": {
+    "frame": { "x": 20, "y": 0, "w": 20, "h": 16 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 16 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 500
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9-x64",
+  "image": "C:\\Users\\trent\\code\\dog-o\\data\\gfx\\sprites\\wit\\throw_axe.tga",
+  "format": "RGBA8888",
+  "size": { "w": 40, "h": 16 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Sprite Sheet", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

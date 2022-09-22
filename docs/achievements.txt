@@ -1,0 +1,32 @@
+Fisher Man
+Find Tom.
+
+Newton’s Apple
+Collect an apple off the ground.
+
+Kimono Clash
+Learn about battles.
+
+White Belt
+Get the White Belt.
+
+MULTIPLIER+
+Achieve multiplier level 1.
+
+MULTIPLIER++
+Achieve multiplier level 2.
+
+MULTIPLIER+++
+Achieve multiplier level 3.
+
+Way Down Deep
+Defeat 100 enemies.
+
+Yellow Belt
+Get the Yellow Belt.
+
+Eight Handed Bandit
+Defeat Octo.
+
+Gold Belt
+Get the Gold Belt.

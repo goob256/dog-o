@@ -1,0 +1,4 @@
+@PA0 = { 3072 0 }
+@S0 = { thud.flac }
+A @TYPE1 o1 @PA0 g4 @PA0
+B r8w32 @S0 a

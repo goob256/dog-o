@@ -1,0 +1,59 @@
+#!/bin/bash
+TGUI4_FLAGS=""
+SHIM2_FLAGS=""
+WEDGE2_FLAGS=""
+DOGO_FLAGS=""
+DEPLOYMENT="10.9"
+while [ "${1-}" ] ; do
+	case "$1" in
+		"debug")
+			FLAGS="$FLAGS -DDEBUG=on"
+			;;
+		"release")
+			FLAGS="$FLAGS -DCMAKE_BUILD_TYPE=Release"
+			;;
+		"tools")
+			SHIM2_FLAGS="$SHIM2_FLAGS -DWANT_TOOLS=on"
+			;;
+		"steam")
+			FLAGS="$FLAGS -DSTEAMWORKS=on"
+			;;
+		"mas")
+			FLAGS="$FLAGS -DMAS=on"
+			DEPLOYMENT="10.10"
+			;;
+	esac
+	shift
+done
+TGUI4_FLAGS="$FLAGS $TGUI4_FLAGS"
+SHIM2_FLAGS="$FLAGS $SHIM2_FLAGS"
+WEDGE2_FLAGS="$FLAGS $WEDGE2_FLAGS"
+DOGO_FLAGS="$FLAGS $DOGO_FLAGS"
+
+rm -rf tgui4/build
+rm -rf shim2/build
+rm -rf wedge2/build
+rm -rf dog-o/build
+cd tgui4
+mkdir build
+cd build
+/Users/trent/code/dog-o/tools/batch_files/cmake/macos/tgui4.sh $DEPLOYMENT $TGUI4_FLAGS
+cd ../..
+
+cd shim2
+mkdir build
+cd build
+/Users/trent/code/dog-o/tools/batch_files/cmake/macos/shim2.sh $DEPLOYMENT $SHIM2_FLAGS
+cd ../..
+
+cd wedge2
+mkdir build
+cd build
+/Users/trent/code/dog-o/tools/batch_files/cmake/macos/wedge2.sh $DEPLOYMENT $WEDGE2_FLAGS
+cd ../..
+
+cd dog-o
+mkdir build
+cd build
+/Users/trent/code/dog-o/tools/batch_files/cmake/macos/dog-o.sh $DEPLOYMENT $DOGO_FLAGS
+cd ../..

@@ -1,0 +1,12 @@
+#!/bin/sh
+CWD=`pwd`
+cd ~/code
+cd tgui4
+git pull --rebase
+cd ../shim2
+git pull --rebase
+cd ../wedge2
+git pull --rebase
+cd ../dog-o
+git pull --rebase
+cd $CWD

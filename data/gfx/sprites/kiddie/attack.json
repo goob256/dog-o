@@ -1,0 +1,122 @@
+{ "frames": {
+   "jump 0.tga": {
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "sourceSize": { "w": 22, "h": 36 },
+    "duration": 20
+   },
+   "jump 1.tga": {
+    "frame": { "x": 22, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "sourceSize": { "w": 22, "h": 36 },
+    "duration": 20
+   },
+   "jump 2.tga": {
+    "frame": { "x": 44, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "sourceSize": { "w": 22, "h": 36 },
+    "duration": 20
+   },
+   "jump 3.tga": {
+    "frame": { "x": 66, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "sourceSize": { "w": 22, "h": 36 },
+    "duration": 20
+   },
+   "jump 4.tga": {
+    "frame": { "x": 88, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "sourceSize": { "w": 22, "h": 36 },
+    "duration": 20
+   },
+   "jump 5.tga": {
+    "frame": { "x": 110, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "sourceSize": { "w": 22, "h": 36 },
+    "duration": 20
+   },
+   "jump 6.tga": {
+    "frame": { "x": 132, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "sourceSize": { "w": 22, "h": 36 },
+    "duration": 20
+   },
+   "jump 7.tga": {
+    "frame": { "x": 154, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "sourceSize": { "w": 22, "h": 36 },
+    "duration": 20
+   },
+   "jump 8.tga": {
+    "frame": { "x": 176, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "sourceSize": { "w": 22, "h": 36 },
+    "duration": 20
+   },
+   "jump 9.tga": {
+    "frame": { "x": 198, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "sourceSize": { "w": 22, "h": 36 },
+    "duration": 20
+   },
+   "jump 10.tga": {
+    "frame": { "x": 220, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "sourceSize": { "w": 22, "h": 36 },
+    "duration": 20
+   },
+   "jump 11.tga": {
+    "frame": { "x": 242, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "sourceSize": { "w": 22, "h": 36 },
+    "duration": 20
+   },
+   "jump 12.tga": {
+    "frame": { "x": 264, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "sourceSize": { "w": 22, "h": 36 },
+    "duration": 20
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.17-x64",
+  "image": "jump.tga",
+  "format": "RGBA8888",
+  "size": { "w": 286, "h": 36 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Sprite Sheet", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

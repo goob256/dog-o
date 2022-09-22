@@ -1,0 +1,31 @@
+@S0 = { kick.flac }
+@S1 = { snare.flac }
+@PN0 = { c1 }
+@PN1 = { c4 }
+@R0 = { 3 1 333 128 32 }
+@VAS0 = { 64 }
+
+A t100 @S0 v160
+A o6c16r8.c16r8.c16r4r16c16r16
+A c16r8.c16r8.c16r4r16c16r16
+A c16r8.c16r8.c16r4r16c16r16
+A c16r8.c16r8.c16r4r16c16r16
+
+B t100 @S1 v160
+B o6c32r8..c32r8..c32r16.c32r32c32r32c32r16.c32r16.
+B c32r8..c32r8..c32r16.c32r32c32r32c32r16.c32r16.
+B c32r8..c32r8..c32r16.c32r32c32r32c32r16.c32r16.
+B c32r8..c32r8..c32r16.c32r32c32r32c32r16.c32r16.
+
+C t100 @TYPE3 @R0 @VAS0 @PN0 @CV3
+C o6c16r8.c16r8.c16r2...
+C c16r16c16c16c16r1
+C r8.
+C c16r8.c16r8.c16r4r16c16r16 @PN0 @VAS0
+
+D t100 y32 @PN1
+D r2r8o3c32r32c32r32c32r16.c32r2
+D r16.
+D c32r32c32r32c32r32c32r32c32r8..
+D c32r8..c32r8..c32r16.c32r32c32r32c32r8..
+D c32r8..c32r8..c32r32c32r32c32r32c32r32c32r8.. @PN1

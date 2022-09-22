@@ -1,0 +1,550 @@
+0:Unknown...
+2:Received %d gold!
+3:Received %d experience!
+4:Inventory full!
+5:Received %d %s!
+6:Received %s!
+10:Quit to title?
+12:You died in battle!
+13:Puddle
+14:Apple
+15:Pleasant
+16:Tom
+17:Jellybean
+18:Nothing interesting ever happens around here, eh Jellybean?
+19:Fetch!
+20:WHAAAT???!!!
+21:JELLYBEAN!!!
+22:That did not just happen!^Jellybean, I'll be right back. I'm going to find Tom!
+23:Oh no. Where could Tom be?
+24:Jellybean! I'll be right back sweetie!
+25:Carrot
+26:Is that my old hat?
+27:Frances
+28:Don't you have anything to do, young lady?
+29:Jellybean! How could I forget?
+30:Waitin'. It's all I ever do.^You get good at it... I could wait for days.
+31:You're not Jellybean...
+32:There you are! I need your help! Follow me!
+33:Woah woah woah. I'm busy!
+34:JB's in trouble! Besides, you can't catch anything in this puddle!
+35:OK, OK! But for the record, Vance caught a 3 foot speckler here!
+36:Follow me.
+37:Hello dear! If you see Tom, tell him supper will be late tonight!
+38:There you are! Supper will be late tonight dear!^But don't run off too far!
+39:Tom's Mom
+40:Caramel
+41:Vance
+42:Where did I put my fishing rod???
+43:Tom, have you seen my fishing rod?
+44:So like I said, lower me down slowly.
+45:Yup, let's get this over with.
+46:OK, when I count to three.^One.^Two.
+47:Uh oh...
+48:This is a dog house.^It might look like you can go inside...^But alas, you cannot.
+49:Play
+50:Settings
+51:Quit
+52:© 2022 Nooskewl
+53:The Well
+54:Cozy River
+55:Vance's
+56:Pleasant's
+57:Pleasant's 2
+58:Tom's
+59:Choose a Slot
+60:Yes
+61:No
+62:Load
+63:Show Autosaves
+64:Erase
+65:Select Action
+66:Erase this game?
+67:Select Autosave
+68:No autosaves!
+69:OK
+70:Select Difficulty
+71:Training Wheels
+72:Buckle Up
+73:Liftoff!
+74:Cave 1-1
+75:Oh my goodness, Tom, are you OK?
+76:*cough* *cough* PLEASANT! I'LL SAVE YOU!
+77:I just pulled you out of the water you knucklehead!
+78:Hey, look at this place.
+79:I didn't know this was down here. Where's Jellybean?
+80:He couldn't have gone far. Let's look around.
+81:JB! There you are!
+82:Wait! Come back Jellybean!
+83:Language
+84:Video
+85:Audio
+86:Keyboard
+87:Gamepad
+88:Miscellaneous
+89:Achievements
+90:Cloud Saves
+92:Licenses
+93:English
+94:French
+95:This menu will now exit.
+96:Screen Resolution
+97:Window Size
+98:Fullscreen
+99:Windowed
+100:Select Mode
+101:Sounds:
+102:Music:
+103:Audio Volumes
+104:Apply Changes?
+105:Press a key...
+106:Press a button...
+107:Keyboard Controls
+108:Gamepad Controls
+109:Conflict found! Discard?
+110:Kick
+111:Fierce Kick
+112:Punch
+113:Fierce Punch
+114:Switch
+115:Fullscreen
+116:Left
+117:Right
+118:Up
+119:Down
+127:Rumble enabled
+128:Miscellaneous Settings
+130:Practice
+131:Back
+133:EXCELLENT!!!
+134:GREAT!!!
+135:SUPER!!!
+136:FANTASTIC!!!
+137:Next Character
+139:Action
+140:Menu
+141:Items
+142:Belts
+144:HP
+145:SP
+146:ATK
+147:DEF
+148:Stats
+149:Take a bite. It heals 50 HP.
+150:Eat your vegetables! Restores 25 SP.
+151:Got a sweet tooth? This will lift your spirits.
+152:Press and hold for item descriptions.
+153:No items
+154:SP!
+155:LIFE!
+156:Save
+157:Overwrite this save?
+158:Game saved!
+159:Error saving game!
+161:No belts
+162:Press
+163:to exit
+164:Cancel
+165:Main:
+166:Combos:
+167:Use on-screen controller
+168:Cave 1-2
+169:Combo
+170:Item
+174:Inventory empty...
+177:Received %d gold!
+178:Inventory full!
+181:Info
+182:Soak
+185:MISS!
+186:SHOW 'EM WHAT'S WHAT!
+187:MAKE 'EM SAY UNCLE!
+188:GIVE 'EM A BRUISIN'!
+189:TAKE 'EM UPTOWN!
+190:SEND 'EM HOME CRYIN'!
+191:exits
+192:Press OK to continue.
+193:Sensei
+194:Why hello there!
+195:Yikes! You scared us mister!
+196:You ain't seen nothing yet!^Do you know what lurks in the shadows down here?
+197:Weird fungii? Crazy old men jumping out of the ceiling?
+198:Worse! This place isn't like quiet Cozy River.^There are things down here that will chew you up and spit you out!
+199:We're not leaving until we find Jellybean!
+200:Then you'll need some battling skills!
+201:Ha! And you're going to teach us?!
+202:Look alive!
+203:White Belt
+204:Yellow Belt
+205:Orange Belt
+206:Green Belt
+207:Blue Belt
+208:Purple Belt
+209:Brown Belt
+210:Red Belt
+211:Black Belt
+212:A white karate belt.
+212:A yellow karate belt.
+212:A orange karate belt.
+212:A green karate belt.
+212:A blue karate belt.
+212:A purple karate belt.
+212:A brown karate belt.
+212:A red karate belt.
+212:A black karate belt.
+213:In battle, you must be quick. The enemy will not wait around and you must not either.^
+214:^You can change who will go next using "%s".
+215:Very good, but how will you counter this?!
+217:Pay attention! I could knock you out with one hit! A piece of fruit will replenish your HP.
+218:^You can change who will go next by tapping your party on the right!
+219:Pleasant, use "%s" to punch. Tom, you use "%s" to kick.
+220:Retry battle?
+221:You have much to learn. Will you try again?
+222:That's all I can teach you... for now. Be brave!
+223:Who was that guy?
+224:*shrug*
+225:You'll have to learn the hard way, then.
+226:Fireball
+227:Switch it up with "%s"! You both need to learn!^
+228:Switch it up by tapping your party on the right! You both need to learn!^
+229:You can use sweets to revive someone who is unconscious. Try it now.
+230:Not enough SP! Need %d!
+231:Cave 1-3
+232:Banana
+233:Perfectly ripe. Heals 100 HP.
+234:Cave 1-4
+235:Cave 1-5
+236:Cave 1-6
+237:Cave 1-7
+238:Cave 1-8
+239:Cave 1-9
+240:Cave 1-Drop
+241:Oof! Nice bridge!
+242:Grrr! JB is in big trouble when I find him... No treats for a week!
+243:Ninja Star
+244:A sharp pointed star. Use in battle.
+245:For use in battle!
+246:It sure is getting hot and steamy in here...
+247:Wrath
+248:Claw
+249:Bounce
+250:Coinman
+251:Unicorn
+252:Rainbow
+253:No settings are available at this time!
+254:Cave 1-???
+255:Did you ever learn to swim, Tom?
+256:Uh, no.
+257:I guess I go it alone then...
+258:Octo
+259:Oh, here for your dinner, eh?
+260:Grrr. I'll have you know I've been here for 11 years and I'm overcooked by now, so back off!
+261:Relax, we're not here to eat you.
+262:Haha! Right! And I'm not going to send you to Davy Jones' Locker!
+263:Wait! We're just looking for my dog!
+264:The dog that took a bite out of my 8th tentacle? Now you're really in trouble!^On guard!
+265:Gold Belt
+266:A gold karate belt.
+267:Tentacle
+268:Poke
+269:Please sirs, don't eat me! You wouldn't eat hot rubber, would you?
+270:We're not going to eat you!
+271:Thank you! Thank you so much!^Let me help you across so you can find the pooch!
+272:Jellybean!!! Come here sweetie! Let's go home!
+273:GUHHH! *sobs*
+274:We'll get him back, don't worry.
+275:Ineffective...
+276:LEVEL UP! Gained %d ATK!
+279:LEVEL UP! Gained %d ATK and %d Max SP!
+280:LEVEL UP! Gained %d Max SP!
+281:Cave 2-1
+282:Buy %d for %d gold?
+283:Sell %d for %d gold?
+284:Gold
+285:BUY
+286:SELL
+287:Buy how many?
+288:Sell how many?
+289:Tik
+290:Tok
+292:In inventory
+293:Buy
+294:Sell
+295:Nevermind
+296:Fancy any of the merch? Or perhaps you want to lighten your load?
+297:I've got just the thing for you!
+298:OK, show me what you've got!
+299:Suit yourself!
+300:Turnip
+301:A big, ripe (?) turnip. Restores 50 SP.
+302:Sale price
+303:Hey hey! Look what we have here Tok! Customers!
+304:I can't believe my eyes! Tik! Am I hallucinating???
+305:No you are not! Right this way folks!
+306:I'm Tik and this is my brother Tok.^Tok has the finest goods for your perusal, uh...
+307:He's Tom and I'm Pleasant...^And, well, we could use some things, but we're actually just looking for our dog.^Have you seen him?
+308:Why, that fine doggo of yours passed through here just minutes ago.^Uh... I'd be worried.
+309:These two look like fine warriors to me. Much burlier than most who come through here.
+310:True, true. Hmmm... maybe I can interest you in a deal?^On the other end of this cavern, once you pass through all the nastiest bits...^There are these certain green gemstones I'm keen on.^Perhaps you could lead Tik there in return for some supplies to help you on your way?
+311:We are running low on supplies... What do you think, Tom?
+312:It's a deal!
+313:Excellent! Take these. And these!
+314:Tik, guide these fine folks through the caves.^And if you need any extra supplies, I've got plenty more!
+315:OK folks, I'll be back here where I can keep an eye out for that pup of yours!
+317:Green Gem
+318:A dazzling green gem. Boosts Max HP.
+319:Hey guys... I really shouldn't tell you this, but...^At the end of this little nook, there's a bag where Tok hid some of those green gems.^You guys seem tough, but you might want to grab the gems before we head off into danger...^You see, these gems increase your power as long as you're holding onto them.
+320:Cave 2-2
+321:Cave 2-3
+322:Displaying the licenses failed!
+323:Cave 2-4
+324:Cave 2-5
+325:I can't leave the gang behind!
+326:Watch out here!
+327:Tom, stand here beside me.
+328:Pleasant, follow right behind when we go!
+329:Now!
+330:Well done!
+331:You know the drill...
+332:You were crushed!
+333:Dagger
+334:A razor sharp throwing knife. Use in battle.
+335:Cave 2-6
+336:Cave 2-7
+337:Cave 2-8
+338:Cave 2-???
+339:I'm worried about Jellybean! What if we can't find him?
+340:Don't worry, there's only one way he could have gone.
+341:Hello again!
+342:You again! Are you following us or something mister?
+343:Yes! And I have something for you!
+344:Please say it's my dog...
+345:Unfortunately not. I have been watching your battles, and I'm impressed.^You earned these.
+346:Say, you're a good fighter. Why don't you help us find our dog?
+347:I'm a teacher, not a fighter. I will see you later.
+348:What a weirdo.
+349:Red Potion
+350:Red syrup. Increases Max Simultaneous Turns by 1.
+351:Orange
+352:Fresh and juicy. Heals 150 HP.
+353:EXTRA!
+354:Flame Frog
+355:Croak
+356:Hop
+357:Bot
+358:Machine Gun
+359:Goblin
+360:Stab
+361:Bomb
+362:LUK
+363:Blue Potion
+364:Funny smelling blue liquid. Increases LUK by 1.
+365:Red Wasp
+366:Dodged!
+367:Sting
+368:the back arrow
+369:This game features autosaves. Select "Load" to load your last manual save. Select "Show Autosaves" to show automatic saves.
+370:Easy combos mode
+371:Battle Mode
+372:Fighting Combos (Hard Mode)
+373:Select from List
+374:Sneak attack!
+375:No combos...
+376:Uppercut
+378:Combo Punch
+379:Axe Hammer
+380:Cyclone
+381:Roundhouse
+383:Combo Kick
+384:Dropkick
+385:Spin Kick
+386:Stomp
+387:Cannonball
+388:Fast
+389:Elbow Drop
+390:Bellyflop
+391:Headbutt
+392:You've been attacked from behind! For combos, left is now right and right is left!
+393:MULTIPLIER+
+394:MULTIPLIER++
+395:MULTIPLIER+++
+396:Select this!
+397:to punch!
+398:to kick!
+399:Select a target!
+401:!
+402:"
+403:"
+404:To attempt a move on an enemy, select COMBO.^Pleasant, use "%s" to punch. Tom, you use "%s" to kick.^
+405:To attempt a move on an enemy, select COMBO, then pick a move from the list.^
+406:If you're fast, you can increase your MULTIPLIER.
+408:Pick a move!
+409:Good job!
+410:Excuse me?
+411:Huh?
+412:Uh, elves. Too bad... I ain't goin' back!
+413:Elves? No, sorry, we're just looking for our dog. Have you seen him?
+414:North Pole's too cold for Chilly! Ain't goin' back!
+415:We're actually just looking for our dog...^I'm sure he came this way. You must have seen him?
+416:Uh, the reindeer. He went thataway.
+417:OK, we'll just scoot by you here and...
+418:NOOO!!! Chilly ain't goin' back!!!
+419:Chilly
+420:Huck
+421:Rage
+422:Ugh... Chilly sorry. You go now!
+423:Thanks big guy. Sorry about the bruises!
+424:That's an elevator. Your little friend must have gone up.
+425:OK... then up we go.
+426:Wait! I'm coming too!
+427:Great timing, Tok! C'mon, let's go!
+428:So, how do we start this thing?
+429:Oof. I hope we don't have to come back this way. I might be sick!
+430:Looks like now we can't.
+431:Cave 3-1
+432:Would you look at that!!!
+433:They're beautiful!
+434:Uh, guys. I'm going to stay here with Tok. He's going to need help digging out these gems.^Good luck finding your dog!
+435:Well, we should get looking...
+436:*nods*
+437:Finally, Tok's going to be RICH!
+438:Did you see that? I think I saw JB!
+439:Are you sure? I didn't see anything.
+440:I don't... these caves are getting in my head.^No, I'm sure I saw him. This way!
+442:Choose COMBO then select a move from the list.
+443:Dive Bomb
+444:Hot Pepper
+445:Nice and spicy. Restores 100 SP.
+446:Peach
+447:A fuzzy little peach! Heals 200 HP.
+448:Seering Slap
+449:Burning Boot
+450:Confirm
+451:to confirm
+452:Tap to confirm
+453:We're getting close, I can feel it.
+454:I see you've acquired the Blue Belts!^Those are special, you know...
+455:Special? How so?
+456:Some moves can be targeted at more than one enemy at a time.
+457:And how would we do that?
+458:Simple. Just make a mental checkmark beside each enemy you want to attack...^Then go for it!
+459:Sounds easy enough. But why would we want to?
+460:While the damage will be spread out when you target more than one enemy...^The total damage will be higher.
+461:Aha! I caught you!
+462:Caught me? Haha. I've been watching you out of the corner of my eye this whole time.
+463:Explain yourself mister! Who are you? Why are you here?
+464:Perhaps you should figure out why you are here before asking me that question.
+465:Wha... well I, I'm Wit, and I'm a ninja! And you're being very suspicious!
+466:Ninja? I don't recall ever seeing you before.
+467:Well it's not official... yet... but wait, this isn't about me!
+468:I have to leave now friends. Perhaps this young lady can help you two on your quest. Adios!
+469:So you're a ninja eh? Have you seen a little white dog around?^He's lost and we need to find him.
+470:Actually, yes, he went up that way not long ago.^I can help you track him down.
+471:Anyhow, we could use an extra pair of eyes... and fists, if you're up for it.
+472:Sure. But to be honest... I've never trained as a ninja.
+473:That's OK, we don't know what we're doing either.
+474:*laughs*
+475:OK, Jellybean must be up this way. Let's go.
+476:Wit
+477:Cave 3-2
+478:Aha! Look! These are his footprints!
+479:Oh, wait... those are mine... nevermind.
+480:Karate Chop
+481:Thunderclap
+482:Cartwheel
+483:Beatdown
+484:Windmill
+485:The Claw
+486:Heal
+487:Pause
+489:Misc:
+490:You cannot hold more than %d gold!
+491:Basic turn order display
+492:Cave 3-3
+493:Cave 3-4
+494:Cave 3-5
+495:It's Jellybean's pet tag!^*sigh* Where are you JB?
+496:Pet Tag
+497:A metal tag with Jellybean's name and address on it.
+498:Trout Slap
+499:Twister
+500:Kick Flip
+501:Randomaxe
+502:A massive axe capable of huge damage. Use in battle.
+503:Cave 3-Falls
+504:Cave 3-6
+505:Green Potion
+506:An intoxicating green fluid. Increases ATK by 1.
+507:Cave 3-7
+508:Snapper
+509:Bone
+510:Chomp
+511:Club
+512:Clobber
+513:Spawn
+514:Clone
+515:- EMPTY -
+516:*** CORRUPT ***
+517:You have reached the end of the demo! Thanks for playing!
+216:Very good! You know enough for now.^Take these White Belts. With each belt, you'll learn new skills.^
+518:Open the menu with
+519:and equip the belts, then check out your new skills in the PRACTICE menu.^Advanced skills cost SP to use. You can replenish SP by eating vegetables.^Your SP will also replenish slowly over time.
+520:Free Practice
+441:Very good! You know enough for now.^Take these White Belts. With each belt, you'll learn new skills.^You must equip a belt to use its skills.^
+521:to equip your new belts.^Advanced skills cost SP to use. You can replenish SP by eating vegetables.^Your SP will also replenish slowly over time.
+522:Cutie Pie
+523:Snub
+524:Heart
+525:Thirsty
+526:Tsunami
+527:Exit fullscreen mode to view licenses?
+528:Nose Breaker
+529:Big Stomp
+530:Timberrr
+531:An error occurred!
+532:Cave 3-8
+533:Cave 3-???
+534:Bumper
+535:Kiddie
+536:Bop
+537:Pound
+538:Nom Nom
+539:Who's that?
+540:No need to worry, we're just looking for our dog. Have you seen him?
+541:You want to take Momma's babies!
+542:Not at all! We just want our dog!
+543:CHILDRENNN!
+544:MAMA WON'T LET THEM HURT YOU!!!
+545:Pumpkins... Measly pumpkins!^*shrug*
+546:Bumper
+547:Limbs a Flailin'
+548:???
+549:It's windy out here!
+550:Hey guys! I've got a bounty of supplies if you need anything!
+551:Why hello there! You've come far!^The three of you have earned my highest reward!
+552:Young lady, if you ever want to train with the ninjas, come and find me!
+553:Best of luck!
+554:Eggplant
+555:A tasty legume! Restores 200 SP.
+556:Defend
+557:Ah, the three stooges. Come to rescue your pooch I suppose?^Fat chance. He's coming with me to Prosper: City of Gold.
+558:I don't think so! Come here Jellybean, let's go home!
+559:Come with me! Eat and drink out of bowls of gold!
+560:I love you JB! Please come home.
+561:I'll find a way to convince him once I'm finished with you!
+562:Big Tuna
+563:Code, Art & Audio
+564:Trent Gamblin
+565:Fonts
+566:Craig Kroeger
+567:Testing
+568:Eric Johnson
+569:darkmikasonfire
+570:© 2022 Nooskewl
+571:Sweep
+572:Butt
+573:Can't defend while in action...
+574:I hope you know how to drive a submarine JB...
+575:We'll figure it out...
+576:Let's get going, your mom should have supper ready by now!
+577:I think I smell meatballs...

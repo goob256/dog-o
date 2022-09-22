@@ -1,0 +1,16 @@
+#!/bin/sh
+#cp tgui4/build/lib* "d/Dog-O.app/Contents/MacOS"
+#cp shim2/build/lib* "d/Dog-O.app/Contents/MacOS"
+#cp wedge2/build/lib* "d/Dog-O.app/Contents/MacOS"
+#might need debug symbols...
+#strip dog-o/build/dog-o
+cp dog-o/build/dog-o "d/Dog-O.app/Contents/MacOS"
+#rm -rf "d/Dog-O.app/Contents/Resources/data"
+#cp -a dog-o/data "d/Dog-O.app/Contents/Resources"
+cd dog-o/data
+sh ../../shim2/tools/cpa/mkcpa.sh "../../d/Dog-O.app/Contents/Resources/data.cpa"
+cp "../../d/Dog-O.app/Contents/Resources/data.cpa" "../../d_mac_resources"
+cd ../..
+cp "dog-o/docs/3rd_party.html" "d/Dog-O.app/Contents/Resources"
+cp dog-o/docs/manual_english.html "d/Dog-O.app/Contents/Resources"
+cp dog-o/docs/manual_french.html "d/Dog-O.app/Contents/Resources"

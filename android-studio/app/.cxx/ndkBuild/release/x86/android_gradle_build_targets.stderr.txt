@@ -1,0 +1,34 @@
+C:/Users/trent/code/dog-o/android-studio/ndk-build-project/jni/src/../../../../../shim2/src/gui.cpp:505:13: warning: unused function 'delete_shim_args' [-Wunused-function]
+static void delete_shim_args()
+            ^
+1 warning generated.
+C:/Users/trent/code/dog-o/android-studio/ndk-build-project/jni/src/../../../../../dog-o/src/area_game.cpp:125:6: warning: unused variable 'tot_sz' [-Wunused-variable]
+        int tot_sz = shim::screen_size.w + shim::tile_size;
+            ^
+C:/Users/trent/code/dog-o/android-studio/ndk-build-project/jni/src/../../../../../dog-o/src/area_game.cpp:161:6: warning: unused variable 'tot_sz' [-Wunused-variable]
+        int tot_sz = shim::screen_size.w + shim::tile_size;
+            ^
+C:/Users/trent/code/dog-o/android-studio/ndk-build-project/jni/src/../../../../../dog-o/src/area_game.cpp:195:6: warning: unused variable 'max_w' [-Wunused-variable]
+        int max_w = MAX(w1, w2);
+            ^
+C:/Users/trent/code/dog-o/android-studio/ndk-build-project/jni/src/../../../../../dog-o/src/area_game.cpp:10992:23: warning: unused variable 'tom' [-Wunused-variable]
+                        wedge::Map_Entity *tom = AREA->get_player(TOM);
+                                           ^
+C:/Users/trent/code/dog-o/android-studio/ndk-build-project/jni/src/../../../../../dog-o/src/area_game.cpp:10993:23: warning: unused variable 'wit' [-Wunused-variable]
+                        wedge::Map_Entity *wit = AREA->get_player(WIT);
+                                           ^
+C:/Users/trent/code/dog-o/android-studio/ndk-build-project/jni/src/../../../../../dog-o/src/battle_player.cpp:445:10: warning: unused variable 'enemy' [-Wunused-variable]
+                                auto enemy = static_cast<Battle_Enemy *>(axe_target);
+                                     ^
+1 warning generated.
+C:/Users/trent/code/dog-o/android-studio/ndk-build-project/jni/src/../../../../../dog-o/src/enemies.cpp:523:9: warning: unused variable 'dc' [-Wunused-variable]
+                        bool dc = bg->is_detecting_combo();
+                             ^
+C:/Users/trent/code/dog-o/android-studio/ndk-build-project/jni/src/../../../../../dog-o/src/enemies.cpp:788:7: warning: unused variable 'dc' [-Wunused-variable]
+        bool dc = bg->is_detecting_combo();
+             ^
+C:/Users/trent/code/dog-o/android-studio/ndk-build-project/jni/src/../../../../../dog-o/src/enemies.cpp:5020:18: warning: unused variable 'img' [-Wunused-variable]
+                                        gfx::Image *img = sprite->get_current_image();
+                                                    ^
+3 warnings generated.
+5 warnings generated.

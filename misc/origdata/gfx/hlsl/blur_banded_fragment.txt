@@ -1,0 +1,54 @@
+struct VS_OUTPUT
+{
+	float4 Position : POSITION0;
+	float2 TexCoord : TEXCOORD0;
+	float4 Colour	: COLOR0;
+	float4 gl_FragCoord : TEXCOORD1;
+};
+
+texture tex;
+sampler2D s = sampler_state {
+	texture = <tex>;
+};
+
+float offset_x;
+float offset_y;
+
+float4 main(VS_OUTPUT Input) : COLOR0
+{
+	float4 pix1 = tex2D(s, float2(Input.TexCoord.x+offset_x, Input.TexCoord.y));
+	float4 pix2 = tex2D(s, float2(Input.TexCoord.x-offset_x, Input.TexCoord.y));
+	float4 pix3 = tex2D(s, float2(Input.TexCoord.x, Input.TexCoord.y+offset_y));
+	float4 pix4 = tex2D(s, float2(Input.TexCoord.x, Input.TexCoord.y-offset_y));
+
+	float4 result = ((pix1 + pix2 + pix3 + pix4) / 4.0f) * Input.Colour;
+
+	if (result.a <= 0.1f) {
+		discard;
+	}
+
+	const int nbands_i = 4;
+	const int inv = 100 / nbands_i;
+
+	int r = int(result.r * 100.0f);
+	r /= inv;
+	r = int(min(nbands_i, r+1));
+	result.r = float(r) / 100.0f * inv;
+
+	int g = int(result.g * 100.0f);
+	g /= inv;
+	g = int(min(nbands_i, g+1));
+	result.g = float(g) / 100.0f * inv;
+
+	int b = int(result.b * 100.0f);
+	b /= inv;
+	b = int(min(nbands_i, b+1));
+	result.b = float(b) / 100.0f * inv;
+
+	int a = int(result.a * 100.0f);
+	a /= inv;
+	a = int(min(nbands_i, a+1));
+	result.a = float(a) / 100.0f * inv;
+
+	return result;
+}

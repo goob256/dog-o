@@ -1,0 +1,26 @@
+{ "frames": {
+   "elevator_edges.tga": {
+    "frame": { "x": 0, "y": 0, "w": 48, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 48, "h": 54 },
+    "sourceSize": { "w": 48, "h": 54 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9-x64",
+  "image": "C:\\Users\\trent\\code\\dog-o\\data\\gfx\\sprites\\elevator_edges\\only.tga",
+  "format": "RGBA8888",
+  "size": { "w": 48, "h": 54 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Background", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}
