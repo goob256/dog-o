@@ -9,7 +9,7 @@ TGUI4_PATH := ../../../../../tgui4
 SHIM_PATH := ../../../../../shim2
 WEDGE_PATH := ../../../../../wedge2
 DOGO_PATH := ../../../../../dog-o
-ANDROID_DIR := ../../../../../android.dogo
+ANDROID_DIR := ../../../../../android.tth-dogo
 
 LOCAL_C_INCLUDES := $(LOCAL_PATH)/$(SDL_PATH)/include \
 	$(LOCAL_PATH)/$(TGUI4_PATH)/include \
